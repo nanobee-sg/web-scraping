@@ -14,7 +14,7 @@ This repository seeks to create a web scraper for two of the most popular social
 
 # TODO
 
-## Complete by 13 August
+## Complete by 27 August
 
 - [ ] Create a functioning web scraper for at least one social media platform
 - [ ] Attempt to automate the process on the local machine and plot some basic graphs with the scraped data
@@ -22,7 +22,7 @@ This repository seeks to create a web scraper for two of the most popular social
 
 *above checklist is to create a minimum viable product of the web scraper*
 
-## Complete by 27 August
+## Complete by 11 September
 
 - [ ] Draft a scraper for the other social media platform
 - [ ] Refine codebase
